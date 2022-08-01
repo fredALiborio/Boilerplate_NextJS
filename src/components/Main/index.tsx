@@ -2,6 +2,7 @@ import * as S from './styles'
 
 const Main = () => (
   <S.Wrapper>
+    <S.ButtonLogin><a href='/login'>Login</a></S.ButtonLogin>
     <S.Logo
       src="/img/wellaLogo.png"
       alt="Wella logo with the description Wella Company on the side."

@@ -20,6 +20,17 @@ export const Title = styled.h1`
   font-size: 2.5rem;
 `
 
+export const ButtonLogin = styled.button`
+  font-size: 2rem;
+  border-radius: 6px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  cursor: pointer;
+  
+`
+
 export const Description = styled.h2`
   font-size: 2rem;
   font-weight: 400;
